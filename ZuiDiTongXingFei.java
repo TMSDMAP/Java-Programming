@@ -34,6 +34,7 @@
 
         样例中，最小值为109 = 1 + 2 + 5 + 7 + 9 + 12 + 19 + 21 + 33。*/
 
+//典型的向下、向右移动的最短路径问题，直接用dp即可
 import java.util.Scanner;
 
 public class ZuiDiTongXingFei {
